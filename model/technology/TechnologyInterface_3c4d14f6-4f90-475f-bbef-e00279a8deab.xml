@@ -1,9 +1,0 @@
-<archimate:TechnologyInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[IP]  192.168.1.8"
-    id="3c4d14f6-4f90-475f-bbef-e00279a8deab"
-    documentation="dsds">
-  <properties
-      key="type"
-      value="http"/>
-</archimate:TechnologyInterface>

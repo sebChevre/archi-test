@@ -1,9 +1,0 @@
-<archimate:TechnologyInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[DHCP]  192.168.1.101-220"
-    id="0303622e-8fa0-4e9e-8410-b2b50efa65e3"
-    documentation="dsds">
-  <properties
-      key="type"
-      value="http"/>
-</archimate:TechnologyInterface>
