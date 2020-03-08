@@ -1,0 +1,9 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[WEBDAV - HTTP]  helios.local :5005"
+    id="67c51e80-b1de-4310-aedc-13bea2551869"
+    documentation="dsds">
+  <properties
+      key="type"
+      value="http"/>
+</archimate:TechnologyInterface>

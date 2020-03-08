@@ -1,0 +1,9 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[DNS] "
+    id="03ce2fbb-d1f3-4f8a-adaf-ea786e0d23a0"
+    documentation="dsds">
+  <properties
+      key="type"
+      value="http"/>
+</archimate:TechnologyInterface>

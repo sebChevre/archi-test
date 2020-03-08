@@ -1,0 +1,7 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Internet Box"
+    id="858fb680-ff25-4551-9179-0a86aef536e0">
+  <properties
+      key="ip"/>
+</archimate:Node>
